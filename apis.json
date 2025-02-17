@@ -36,13 +36,6 @@
             "response_key": "result"
         },
         {
-            "name": "bypass7",
-            "url": "http://helya.pylex.xyz:10234/api/addlink?url={url}",
-            "method": "GET",
-            "parse_json": true,
-            "response_key": "result"
-        },
-        {
             "name": "bypass8",
             "url": "https://stickx.top/api-fluxus/?hwid={url}&api_key=E99l9NOctud3vmu6bPne",
             "method": "GET",
@@ -97,13 +90,6 @@
             "method": "GET",
             "parse_json": true,
             "response_key": "key"
-        },
-        {
-            "name": "bypass16",
-            "url": "https://iwoozie.baby/api/free/bypass?url={url}",
-            "method": "GET",
-            "parse_json": true,
-            "response_key": "result"
         },
         {
             "name": "bypass17",
