@@ -92,13 +92,6 @@
             "response_key": "key"
         },
         {
-            "name": "bypass18",
-            "url": "http://lat.66n6.asia/bypass/vegax/?url={url}",
-            "method": "GET",
-            "parse_json": true,
-            "response_key": "key"
-        },
-        {
             "name": "bypass19",
             "url": "http://lat.66n6.asia/bypass/loot-link/?url={url}",
             "method": "GET",
