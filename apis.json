@@ -29,13 +29,6 @@
             "response_key": "result"
         },
         {
-            "name": "bypass6",
-            "url": "https://slr.kys.gay/api/v3/bypass?url={url}",
-            "method": "GET",
-            "parse_json": true,
-            "response_key": "result"
-        },
-        {
             "name": "bypass8",
             "url": "https://stickx.top/api-fluxus/?hwid={url}&api_key=E99l9NOctud3vmu6bPne",
             "method": "GET",
