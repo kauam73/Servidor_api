@@ -104,6 +104,20 @@
             "method": "GET",
             "parse_json": true,
             "response_key": "key"
-        }
+        },
+        {
+            "name": "bypass21",
+            "url": "https://iwoozie.baby/api/free/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass22",
+            "url": "https://hahabypasser-secret-or-no.vercel.app/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        }  
     ]
 }
