@@ -23,7 +23,7 @@
         },
         {
             "name": "generic_bypass_1",
-            "url": "http://fi4.bot-hosting.net:22869/bypass?url={url}",
+            "url": "http://fi4.bot-hosting.net:22869/bypass?url={URL}&key=TestHub-U8vCRjLTDBFMyYaPkBbI-tekxrk",
             "method": "GET",
             "parse_json": true,
             "response_key": "result"
