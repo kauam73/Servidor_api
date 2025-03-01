@@ -118,6 +118,13 @@
             "method": "GET",
             "parse_json": true,
             "response_key": "result"
-        }
+        },
+        {
+            "name": "sub2unlock",
+            "url": "https://bypassme.vercel.app/api/sub2unlock?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+       }
     ]
 }
