@@ -8,6 +8,14 @@
             "response_key": "result"
         },
         {
+            "name": "solar bypass add",
+            "url": "
+https://api.solar-x.top/api/v3/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
             "name": "fluxus_1",
             "url": "https://keybypass.vercel.app/api/fluxus?url={url}",
             "method": "GET",
